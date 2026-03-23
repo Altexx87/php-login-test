@@ -18,3 +18,6 @@ Simple login system for web applications with PHP & Bootstrap.
 - `dbcon.php` - Database config (edit this!)
 - `setup.sql` - Database table
 
+
+## License
+GNU Affero General Public License v3.0
