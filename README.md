@@ -9,7 +9,7 @@ Simple login system for web applications with PHP & Bootstrap.
 3. Upload files to your server
 4. Visit `signup.php` to start
 
-## Files
+## ⚡ Files
 
 - `signup.php` - Create account
 - `login.php` - Login
@@ -19,5 +19,5 @@ Simple login system for web applications with PHP & Bootstrap.
 - `setup.sql` - Database table
 
 
-## License
+## ⭐ License
 GNU Affero General Public License v3.0
