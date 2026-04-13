@@ -2,7 +2,7 @@
 
 Simple login system for web applications with PHP & Bootstrap.
 
-## Quick Start
+## 🚀 Quick Start
 
 1. Edit `dbcon.php` with your database details
 2. Run `setup.sql` in your database
